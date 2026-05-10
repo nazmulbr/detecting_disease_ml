@@ -25,8 +25,7 @@ Heart-Disease-Prediction/
 - LICENSE
 
 ## 🚀 How to Run
-git clone https://github.com/nazmulbr/Heart-Disease-Prediction.git
-
+Clone the repository
 Install dependencies:
 pip install pandas numpy matplotlib seaborn scikit-learn
 
